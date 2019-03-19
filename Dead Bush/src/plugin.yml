@@ -1,0 +1,6 @@
+name: DB
+author: Shprqness
+description: Plugin for UHC
+version: 1.0
+main: club.shprqness.db.DeadBush
+website: shprqness.club
